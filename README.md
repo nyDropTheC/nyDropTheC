@@ -4,6 +4,7 @@ Hi, I'm Nik. I'm pretty good at coding and am close to graduating at Haaga-Helia
 Projects I've done:
 - Various C++ projects related to game modding
 - Various Java + React full-stack web dev projects
+- Mobile development projects with React Native
 
 Things I know:
 
