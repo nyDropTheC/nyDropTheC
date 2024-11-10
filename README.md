@@ -13,3 +13,5 @@ Things I know:
 - C++ for desktop application and plugin development
 - Reverse engineering with industry-standard tooling
 - Deployment and containerization
+
+Contact me at nikniknikknikk@proton.me
